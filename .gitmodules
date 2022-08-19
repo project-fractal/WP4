@@ -1,3 +1,6 @@
 [submodule "WP4T44-02"]
 	path = WP4T44-02
 	url = https://github.com/project-fractal/WP4T44-02
+[submodule "https://github.com/project-fractal/WP4T42-07-Hierarchical-Metascheduler.git"]
+	path = https://github.com/project-fractal/WP4T42-07-Hierarchical-Metascheduler.git
+	url = https://github.com/project-fractal/WP4.git
