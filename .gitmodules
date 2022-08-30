@@ -4,3 +4,6 @@
 [submodule "WP4T42-07-Hierarchical-Metascheduler"]
 	path = WP4T42-07-Hierarchical-Metascheduler
 	url = https://github.com/project-fractal/WP4T42-07-Hierarchical-Metascheduler.git
+[submodule "WP4T41-03-PULPissimo"]
+	path = WP4T41-03-PULPissimo
+	url = https://github.com/project-fractal/WP4T41-03-PULPissimo.git 
