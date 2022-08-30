@@ -7,3 +7,12 @@
 [submodule "WP4T41-03-PULPissimo"]
 	path = WP4T41-03-PULPissimo
 	url = https://github.com/project-fractal/WP4T41-03-PULPissimo.git 
+[submodule "WP4T44-01-Security-PULP"]
+	path = WP4T44-01-Security-PULP
+	url = https://github.com/project-fractal/WP4T44-01-Security-PULP.git
+[submodule "WP4T43-02-Safety-PULP"]
+	path = WP4T43-02-Safety-PULP
+	url = https://github.com/project-fractal/WP4T43-02-Safety-PULP.git
+[submodule "WP4T42-01-AI_PULP"]
+	path = WP4T42-01-AI_PULP
+	url = https://github.com/project-fractal/WP4T42-01-AI_PULP.git
