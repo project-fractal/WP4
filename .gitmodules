@@ -16,3 +16,6 @@
 [submodule "WP4T42-01-AI_PULP"]
 	path = WP4T42-01-AI_PULP
 	url = https://github.com/project-fractal/WP4T42-01-AI_PULP.git
+[submodule "WP4T43-01-Performance-Monitoring-Services"]
+	path = WP4T43-01-Performance-Monitoring-Services
+	url = git@github.com:project-fractal/WP4T43-01-Performance-Monitoring-Services.git
