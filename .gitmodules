@@ -19,3 +19,6 @@
 [submodule "WP4T43-01-Performance-Monitoring-Services"]
 	path = WP4T43-01-Performance-Monitoring-Services
 	url = git@github.com:project-fractal/WP4T43-01-Performance-Monitoring-Services.git
+[submodule "WP4T43-03-SW-Diverse-Redundancy-Library"]
+	path = WP4T43-03-SW-Diverse-Redundancy-Library
+	url = git@gitlab-internal.bsc.es:mfernand/sw-diverse-redundancy.git
