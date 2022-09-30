@@ -22,3 +22,6 @@
 [submodule "WP4T43-03-SW-Diverse-Redundancy-Library"]
 	path = WP4T43-03-SW-Diverse-Redundancy-Library
 	url = git@github.com:project-fractal/WP4T43-03-SW-Diverse-Redundancy-Library.git
+[submodule "WP4T41-04-Rpu-Power-Service"]
+	path = WP4T41-04-Rpu-Power-Service
+	url = git@github.com:project-fractal/WP4T41-04-Rpu-Power-Service.git
