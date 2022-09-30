@@ -25,3 +25,6 @@
 [submodule "WP4T41-04-Rpu-Power-Service"]
 	path = WP4T41-04-Rpu-Power-Service
 	url = git@github.com:project-fractal/WP4T41-04-Rpu-Power-Service.git
+[submodule "WP4T43-06-FPGA_Fault_Injector/DAVOS"]
+	path = WP4T43-06-FPGA_Fault_Injector/DAVOS
+	url = https://gitlab.com/selene-riscv-platform/DAVOS.git
