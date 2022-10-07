@@ -28,3 +28,6 @@
 [submodule "WP4T43-06-FPGA_Fault_Injector/DAVOS"]
 	path = WP4T43-06-FPGA_Fault_Injector/DAVOS
 	url = https://gitlab.com/selene-riscv-platform/DAVOS.git
+[submodule "WP4T41-02-HATMA-Adaptation-Logic"]
+	path = WP4T41-02-HATMA-Adaptation-Logic
+	url = https://github.com/project-fractal/WP4T41-02-HATMA-Adaptation-Logic.git
