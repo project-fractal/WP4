@@ -31,3 +31,6 @@
 [submodule "WP4T41-02-HATMA-Adaptation-Logic"]
 	path = WP4T41-02-HATMA-Adaptation-Logic
 	url = https://github.com/project-fractal/WP4T41-02-HATMA-Adaptation-Logic.git
+[submodule "WP4T43-AI_Scheduling"]
+	path = WP4T43-AI_Scheduling
+	url = git@github.com:project-fractal/WP4T43-AI_Scheduling.git
