@@ -40,3 +40,6 @@
 [submodule "WP4-T43-004-ATTNoC"]
 	path = WP4-T43-004-ATTNoC
 	url = https://github.com/project-fractal/WP4-T43-004-ATTNoC.git
+[submodule "WP4T42-02-Rpu-AI"]
+	path = WP4T42-02-Rpu-AI
+	url = git@github.com:project-fractal/WP4T42-02-Rpu-AI.git
