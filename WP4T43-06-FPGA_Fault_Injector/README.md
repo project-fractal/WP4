@@ -1,20 +1,20 @@
 # WP4T43-06 FPGA Fault Injector (FFI)
 
-FPGA fault injection is supported by the DAVOS-FFI tool.
+FPGA fault injection is supported by the bit-accurate FFI tool (BAFFI).
 
 ## Description
 
-DAVOS-FFI tool automates fault injection experiments in FPGA prototypes targeting Xilinx FPGAs.
-DAVOS-FFI forms a part of the DAVOS toolkit.
+BAFFI tool automates fault injection experiments in FPGA prototypes targeting Xilinx FPGAs.
+BAFFI forms a part of the DAVOS toolkit.
 The detailed tookit description is available in the DAVOS repository under the link: 
 https://gitlab.com/selene-riscv-platform/DAVOS
 
-DAVOS-FFI tool supports fine-grain hierarchical FFI experiments,
+BAFFI tool supports fine-grain hierarchical FFI experiments,
 where each node in the DUT tree can be targeted with an accuracy of up to an individual netlist cell.
 
 ## Objectives
 
-DAVOS-FFI satisfies the FRACTAL objectives by automating several dependability-driven processes of design flow, including:
+BAFFI satisfies the FRACTAL objectives by automating several dependability-driven processes of design flow, including:
 * Verification of safety/security mechanisms of the FRACTAL node prototype (at the hardware layer, e.g. SELENE platform);
 * Assessing the dependability (safety) features of the FRACTAL node;
 * Identifying the dependability (safety) bottlenecks of the FRACTAL node;
@@ -22,7 +22,7 @@ DAVOS-FFI satisfies the FRACTAL objectives by automating several dependability-d
 
 ## Prerequisites
 
-DAVOS-FFI tool requires:
+BAFFI tool requires:
 * Python version 2.x (basic distribution),
 * Xilinx Vivado suite version 2020 and later.
 
